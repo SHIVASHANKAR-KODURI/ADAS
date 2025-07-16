@@ -95,6 +95,7 @@ python object_detection.py
 ## 📽️ Sample Output
 
 **Lane Detection**
+<img width="515" height="296" alt="image" src="https://github.com/user-attachments/assets/7ba68f13-9b6b-4de6-b138-112e417346d8" />
 
 
 **Object Detection**
