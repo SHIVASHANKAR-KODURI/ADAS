@@ -97,7 +97,9 @@ python object_detection.py
 
 <img width="515" height="296" alt="image" src="https://github.com/user-attachments/assets/7ba68f13-9b6b-4de6-b138-112e417346d8" />
 
+
 **Object Detection**
+
 <img width="800" height="534" alt="image" src="https://github.com/user-attachments/assets/bdee1916-aa4a-4a03-aee5-b680a20edcd6" />
 
 
